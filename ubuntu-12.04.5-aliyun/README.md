@@ -12,7 +12,7 @@
 1. Install [Docker](https://docs.docker.com/)
 2. Download [automated build](https://registry.hub.docker.com/u/hanksudo/ubuntu-12.04.5-aliyun/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull hanksudo/ubuntu-12.04.5-aliyun`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="hanksudo/ubuntu-12.04.5-aliyun" github.com/hanksudo/dockerfiles/ubuntu-12.04.5-aliyun`)
+3. alternatively, you can build an image from Dockerfile, clone this repo then: `docker build -t="hanksudo/ubuntu-12.04.5-aliyun" ./ubuntu-12.04.5-aliyun`)
 
 ### Usage
 

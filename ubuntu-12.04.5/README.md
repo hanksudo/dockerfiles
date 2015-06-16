@@ -11,7 +11,7 @@ This **Dockerfile** based on Ubuntu 12.04.5, and already done update, upgrade, a
 1. Install [Docker](https://docs.docker.com/)
 2. Download [automated build](https://registry.hub.docker.com/u/hanksudo/ubuntu-12.04.5/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull hanksudo/ubuntu-12.04.5`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="hanksudo/ubuntu-12.04.5" github.com/hanksudo/dockerfiles/ubuntu-12.04.5`)
+3. alternatively, you can build an image from Dockerfile, clone this repo then: `docker build -t="hanksudo/ubuntu-12.04.5" ./ubuntu-12.04.5`)
 
 ### Usage
 
