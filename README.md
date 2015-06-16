@@ -9,6 +9,8 @@ Dockerfile collections
 - [x] [Ubuntu-12.04.5-aliyun](https://registry.hub.docker.com/u/hanksudo/ubuntu-12.04.5-aliyun/)
     + Based on Ubuntu 12.04.5, and already done update, upgrade, and preinstall some useful package.
     + Replace packages source by [aliyun](http://cn.archive.ubuntu.com/) to speed up download rate in China
+- [x] [nodejs](https://registry.hub.docker.com/u/hanksudo/nodejs/)
+    + use [n](https://github.com/tj/n) node version management to install and execute nodejs with different version.
 
 ### Reference
 
