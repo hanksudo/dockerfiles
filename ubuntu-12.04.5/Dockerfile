@@ -2,7 +2,7 @@
 
 # pull base image
 FROM ubuntu:12.04.5
-MAINTAINER Hank Wang
+MAINTAINER Hank Wang <drapho@gmail.com>
 
 # Install
 RUN \

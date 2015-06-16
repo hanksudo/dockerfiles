@@ -2,7 +2,7 @@
 
 # Pull base image
 FROM ubuntu:12.04.5
-MAINTAINER Hank Wang
+MAINTAINER Hank Wang <drapho@gmail.com>
 
 RUN cp /etc/apt/sources.list /etc/apt/sources.list.bak
 COPY ./sources.list-aliyun /etc/apt/sources.list
