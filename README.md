@@ -11,6 +11,13 @@ Dockerfile collections
     + Replace packages source by [aliyun](http://cn.archive.ubuntu.com/) to speed up download rate in China
 - [x] [nodejs](https://registry.hub.docker.com/u/hanksudo/nodejs/)
     + use [n](https://github.com/tj/n) node version management to install and execute nodejs with different version.
+- [x] [nginx](https://registry.hub.docker.com/u/hanksudo/nginx-source/)
+    + nginx web server compile from source
+- [ ] postgres
+- [ ] rabbitmq
+- [ ] redis
+- [ ] postfix
+- [ ] twisted
 
 ### Reference
 
