@@ -22,4 +22,4 @@ RUN rm -rf /var/lib/apt/lists/*
 # WORKDIR /root
 
 # Default command
-CMD ["bash"]
+CMD ["/bin/bash"]
